@@ -28,20 +28,20 @@ Ideal for:
 - Self-study and revision
 
 ## 📁 Repository Structure
-MySQL-DBA/
-└── MYSQL RESOURCES/                  ← All actual content lives here
-├── Interview-Questions/          (if present – Vskills-style Q&A sets)
-├── Cheatsheets/                  (command references, syntax quick refs)
-├── Scripts/                      (backup, monitoring, tuning scripts)
-├── Notes/                        (concept explanations, diagrams if any)
-├── Configuration/                (my.cnf examples, InnoDB/Galera settings)
-├── Backup-Recovery/              (PITR, mysqldump, XtraBackup guides)
-├── Replication/                  (master-slave, Group Replication notes)
-└── ... (other topic-specific folders or files)
+MySQL-DBA/ <br> 
+└── MYSQL RESOURCES/                  ← All actual content lives here <br>
+├── Interview-Questions/          (if present – Vskills-style Q&A sets) <br>
+├── Cheatsheets/                  (command references, syntax quick refs) <br>
+├── Scripts/                      (backup, monitoring, tuning scripts) <br>
+├── Notes/                        (concept explanations, diagrams if any)<br>
+├── Configuration/                (my.cnf examples, InnoDB/Galera settings) <br>
+├── Backup-Recovery/              (PITR, mysqldump, XtraBackup guides)<br>
+├── Replication/                  (master-slave, Group Replication notes)<br>
+└── ... (other topic-specific folders or files)<br>
 
 
 > **Note**: Currently the repo is focused on the `MYSQL RESOURCES` directory. Feel free to explore subfolders for specific topics.
-
+<br>
 ## 🔥 Key Highlights
 
 - Comprehensive **interview Q&A** sets (100+ questions with detailed answers)
@@ -59,18 +59,18 @@ MySQL-DBA/
    cd MySQL-DBA/MYSQL\ RESOURCES
 
    📚 Main Topics Covered
-
-Storage Engines (InnoDB vs MyISAM vs others)
-ACID, Transactions & Isolation Levels
-Indexing & Query Optimization (EXPLAIN, covering indexes, composite keys)
-Backup Strategies (logical vs physical, mysqldump, Percona XtraBackup)
-Point-in-Time Recovery (PITR) with binary logs
-Replication (async, semi-sync, Group Replication, Galera)
-High Availability & Scaling (sharding, read replicas, vertical vs horizontal)
-Security (privileges, encryption, audit plugin, SQL injection prevention)
-Monitoring & Troubleshooting (Performance Schema, slow log, error log)
-Error Handling & Deadlocks
-MySQL 8.0+ features (roles, window functions, CTEs in admin context)
+<br>
+Storage Engines (InnoDB vs MyISAM vs others) <br>
+ACID, Transactions & Isolation Levels<br>
+Indexing & Query Optimization (EXPLAIN, covering indexes, composite keys)<br>
+Backup Strategies (logical vs physical, mysqldump, Percona XtraBackup)<br>
+Point-in-Time Recovery (PITR) with binary logs<br>
+Replication (async, semi-sync, Group Replication, Galera)<br>
+High Availability & Scaling (sharding, read replicas, vertical vs horizontal)<br>
+Security (privileges, encryption, audit plugin, SQL injection prevention)<br>
+Monitoring & Troubleshooting (Performance Schema, slow log, error log)<br>
+Error Handling & Deadlocks<br>
+MySQL 8.0+ features (roles, window functions, CTEs in admin context)<br>
 
 ⚡ Quick Start – Most Viewed Files (based on common DBA needs)
 
@@ -80,24 +80,23 @@ Backup & Restore Best Practices
 InnoDB Configuration Recommendations
 
 🤝 Contributing
-Contributions are welcome!
+Contributions are welcome!<br>
 You can:
 
-Fix typos or improve explanations
-Add new interview questions + answers
-Contribute real-world config examples
-Add scripts (bash, Python, SQL) for common DBA tasks
-Include links to great external resources (with proper attribution)
+Fix typos or improve explanations<br>
+Add new interview questions + answers<br>
+Contribute real-world config examples<br>
+Add scripts (bash, Python, SQL) for common DBA tasks<br>
+Include links to great external resources (with proper attribution)<br>
 
 Just open an issue or pull request.
-📄 License
-This repository is for personal/educational use.
-No formal license yet — consider everything MIT-licensed unless stated otherwise in individual files. Feel free to fork, learn from, and adapt — attribution appreciated.
-🙏 Acknowledgments
+This repository is for personal/educational use.<br>
+No formal license yet — consider everything MIT-licensed unless stated otherwise in individual files. Feel free to fork, learn from, and adapt — attribution appreciated.<br>
+🙏 Acknowledgments 
+<br>
+Inspired by Vskills MySQL DBA interview questions & many community resources<br>
+Thanks to MySQL documentation, Percona blogs, Severalnines, PlanetScale articles, and the open-source MySQL community<br>
 
-Inspired by Vskills MySQL DBA interview questions & many community resources
-Thanks to MySQL documentation, Percona blogs, Severalnines, PlanetScale articles, and the open-source MySQL community
-
-Happy querying! 🐬
-Last updated: February 2025
+Happy querying! 🐬<br>
+Last updated: February 2025<br>
 Maintained by: Rishi
